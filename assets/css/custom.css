@@ -1,5 +1,6 @@
 .page-header .project-name {
-  display: none;
+  text-indent: -9999px; /* moves the text off-screen */
+  line-height: 0;       /* removes extra spacing */
 }
 
 .page-header .project-name {
