@@ -23,3 +23,19 @@
 .page-header .project-tagline {
   margin-top: 30px; /* Adjust this number as needed */
 }
+
+/* On small screens, adjust spacing */
+@media (max-width: 600px) {
+  .page-header .project-name {
+    padding-top: 100px; /* Reduce space above the logo text */
+  }
+
+  .page-header .project-name::before {
+    width: 200px;  /* Smaller logo width */
+    height: 200px; /* Smaller logo height */
+  }
+
+  .page-header .project-tagline {
+    padding-top: 20px !important; /* Reduce space above subtitle if needed */
+  }
+}
