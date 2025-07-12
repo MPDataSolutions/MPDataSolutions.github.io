@@ -1,15 +1,22 @@
+/* Position the title container */
+.page-header .project-name {
+  position: relative;
+  padding-top: 120px; /* Adjust to match logo height + spacing */
+  text-indent: -9999px; /* hides the text */
+  line-height: 0;       /* removes extra spacing */
+}
 
 /* Insert the logo above the title text */
 .page-header .project-name::before {
   content: "";
   display: block;
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
   margin: 0 auto;
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: contain;
-  text-indent: -9999px; /* moves the text off-screen */
-  line-height: 0;       /* removes extra spacing */
+  width: 300px;   /* Adjust the width */
+  height: 100px;  /* Adjust the height */
 }
