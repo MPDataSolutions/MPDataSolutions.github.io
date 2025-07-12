@@ -33,7 +33,7 @@
   .page-header .project-name::before {
     width: 175px;  /* Smaller logo width */
     height: 175px; /* Smaller logo height */
-    padding-top: 200px; /* Reduce space above the logo text */
+    padding-top: 80px; /* Reduce space above the logo text */
   }
 
   .page-header .project-tagline {
