@@ -17,6 +17,7 @@
   margin: 0 auto;
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: contain;
-  width: 300px;   /* Adjust the width */
-  height: 100px;  /* Adjust the height */
+  width: 400px;
+  height: 130px;
+  padding-top: 140px;
 }
