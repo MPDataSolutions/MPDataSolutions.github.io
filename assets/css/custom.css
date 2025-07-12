@@ -16,6 +16,6 @@
   transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: 100% 100%;
-  width: 800px;   /* Adjust as needed */
-  height: 260px;  /* Adjust as needed */
+  width: 600px;   /* Adjust as needed */
+  height: 600px;  /* Adjust as needed */
 }
