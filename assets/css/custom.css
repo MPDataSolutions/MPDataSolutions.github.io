@@ -16,8 +16,8 @@
   transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: cover;
-  width: 400px; !important /* adjust width */
-  height: 400px; !important/* adjust height */
+  width: 400px !important; /* adjust width */
+  height: 400px !important;/* adjust height */
 }
 
 .page-header .project-tagline {
