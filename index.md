@@ -33,7 +33,7 @@ At MP Data Solutions, we specialize in designing and building robust, scalable d
 ## Why Choose Us
 
 ✅ Over 8 years of experience delivering data solutions for businesses of all sizes  
-✅ Deep expertise in Python, SQL, Azure Data Factory, and modern data platforms  
+✅ Deep expertise in Python, SQL and all popular modern data platforms  
 ✅ Flexible, freelance partnership tailored to your goals  
 
 ---
