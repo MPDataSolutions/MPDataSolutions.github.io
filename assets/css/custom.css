@@ -27,7 +27,7 @@
 /* On small screens, adjust spacing */
 @media (max-width: 600px) {
   .page-header .project-name {
-    padding-top: 150px; /* Reduce space above the logo text */
+    padding-top: -50px; /* Reduce space above the logo text */
   }
 
   .page-header .project-name::before {
