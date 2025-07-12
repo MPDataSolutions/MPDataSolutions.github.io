@@ -1,5 +1,5 @@
 title: " "        # Blank title so it doesn’t fall back
 description: Transforming Data Into Insight
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # force rebuild
