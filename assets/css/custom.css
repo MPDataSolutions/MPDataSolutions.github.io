@@ -6,17 +6,19 @@
   position: relative;
 }
 
-/* Add the logo as a background image centered above the title */
+/* Insert the logo above the title text */
 .page-header .project-name::before {
   content: "";
   display: block;
-  background: url('/MPDataSolutions.png') no-repeat center top;
-  background-size: contain;
-  width: 600px;   /* desired width */
-  height: 500px;  /* desired height */
   position: absolute;
   top: 0;
   left: 0;
+  right: 0;
+  margin: 0 auto;
+  background: url('/logo.png') no-repeat center top;
+  background-size: contain;
+  width: 300px;   /* Adjust width */
+  height: 100px;  /* Adjust height */
   text-indent: -9999px; /* moves the text off-screen */
   line-height: 0;       /* removes extra spacing */
 }
