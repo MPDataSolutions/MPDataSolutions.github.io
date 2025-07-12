@@ -1,7 +1,4 @@
-.page-header .project-name {
-  text-indent: -9999px; /* moves the text off-screen */
-  line-height: 0;       /* removes extra spacing */
-}
+
 
 .page-header .project-name {
   /* Add padding to make room for the logo */
@@ -20,4 +17,6 @@
   position: absolute;
   top: 0;
   left: 0;
+  text-indent: -9999px; /* moves the text off-screen */
+  line-height: 0;       /* removes extra spacing */
 }
