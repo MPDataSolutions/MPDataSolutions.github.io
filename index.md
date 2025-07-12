@@ -1,8 +1,3 @@
----
-title: MP Data Solutions
-description: Freelance Data Engineering Expertise
----
-
 # Welcome to MP Data Solutions
 
 **Freelance Data Engineering Services to Power Your Business**
