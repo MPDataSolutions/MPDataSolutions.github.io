@@ -3,15 +3,13 @@
 .page-header .project-name::before {
   content: "";
   display: block;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;
   margin: 0 auto;
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: contain;
-  width: 300px;   /* Adjust width */
-  height: 100px;  /* Adjust height */
   text-indent: -9999px; /* moves the text off-screen */
   line-height: 0;       /* removes extra spacing */
 }
