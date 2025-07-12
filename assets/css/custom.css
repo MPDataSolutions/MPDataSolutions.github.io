@@ -1,11 +1,4 @@
 
-
-.page-header .project-name {
-  /* Add padding to make room for the logo */
-  padding-top: 100px; /* adjust as needed */
-  position: relative;
-}
-
 /* Insert the logo above the title text */
 .page-header .project-name::before {
   content: "";
@@ -15,7 +8,7 @@
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: url('/logo.png') no-repeat center top;
+  background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: contain;
   width: 300px;   /* Adjust width */
   height: 100px;  /* Adjust height */
