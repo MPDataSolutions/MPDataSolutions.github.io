@@ -1,6 +1,6 @@
 /* Show logo above the site title */
 .page-header .project-name::before {
-  content: url('/logo.png');
+  content: url('/MPDataSolutions.png');
   display: block;
   margin: 0 auto 10px auto;
   max-width: 150px;
