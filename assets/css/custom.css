@@ -12,7 +12,6 @@
   display: block;
   position: absolute;
   top: 0;
-  left: 50%;
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: contain;
   width: 450px;   /* Adjust as needed */
