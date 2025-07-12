@@ -12,8 +12,10 @@
   display: block;
   position: absolute;
   top: 0;
+  left: 50%;
+  transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
-  background-size: contain;
-  width: 450px;   /* Adjust as needed */
-  height: 450px;  /* Adjust as needed */
+  background-size: 100% 100%;
+  width: 400px;   /* Adjust as needed */
+  height: 130px;  /* Adjust as needed */
 }
