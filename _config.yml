@@ -3,12 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: MP Data Solutions
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: About MP Data Solutions
 
-theme: jekyll-theme-cayman
+I’m a freelance data engineer and founder of MP Data Solutions, specializing in designing and building scalable data pipelines that turn raw information into actionable insights. With expertise across cloud platforms, ETL development, and analytics, I help businesses unlock the full value of their data to drive smarter decisions and accelerate growth.
+
+theme: jekyll-theme-modernist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
