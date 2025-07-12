@@ -31,9 +31,9 @@
   }
 
   .page-header .project-name::before {
-    width: 150px;  /* Smaller logo width */
-    height: 150px; /* Smaller logo height */
-    padding-top: 25px; /* Reduce space above the logo text */
+    width: 175px;  /* Smaller logo width */
+    height: 175px; /* Smaller logo height */
+    padding-top: 200px; /* Reduce space above the logo text */
   }
 
   .page-header .project-tagline {
