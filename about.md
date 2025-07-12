@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+MP Data Solutions provides freelance data engineering expertise specializing in cloud infrastructure, ETL pipelines, and analytics solutions.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+email : mpdatasolutionsltd@gmail.com
+phone : 07752475983
