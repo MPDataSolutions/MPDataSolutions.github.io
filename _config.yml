@@ -4,8 +4,8 @@
 name: MP Data Solutions
 description: >-
   Freelance Data Engineering Services. We design and build cloud data pipelines, automate ETL workflows, and deliver actionable insights.
-baseurl: "" # Keep this blank for a user/organization site
-url: "https://mpdatasolutions.github.io" # Change to your custom domain if you have one
+# baseurl: "" # Keep this blank for a user/organization site
+# url: "https://mpdatasolutions.github.io" # Change to your custom domain if you have one
 
 # Author info
 author:
