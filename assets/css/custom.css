@@ -1,12 +1,12 @@
 /* Position the title container */
 .page-header .project-name {
   position: relative;
-  padding-top: 160px; /* Make this a bit more than the logo height */
-  text-indent: -9999px; /* hides the text */
-  line-height: 0;       /* removes extra spacing */
+  padding-top: 160px; /* Add space above the text */
+  text-indent: -9999px; /* Hide the text itself */
+  line-height: 0;       /* Remove extra spacing */
 }
 
-/* Insert the logo above the title text */
+/* Insert the logo as a background image */
 .page-header .project-name::before {
   content: "";
   display: block;
@@ -15,7 +15,7 @@
   left: 50%;
   transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
-  background-size: contain;
-  width: 400px;   /* Adjust as needed */
-  height: 300px;  /* Adjust as needed */
+  background-size: 100% 100%;
+  width: 400px;  /* adjust width */
+  height: 130px; /* adjust height */
 }
