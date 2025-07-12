@@ -3,9 +3,7 @@
   padding-top: 160px; /* adjust as needed */
   position: relative;
 }
-.page-header .project-name {
-  color: #003366;
-}
+
 /* Add the logo as a background image centered above the title */
 .page-header .project-name::before {
   content: "";
