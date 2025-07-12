@@ -1,7 +1,7 @@
 /* Position the title container */
 .page-header .project-name {
   position: relative;
-  padding-top: 160px; /* Add space above the text */
+  padding-top: 400px; /* Make space for the logo (same as logo height) */
   text-indent: -9999px; /* Hide the text itself */
   line-height: 0;       /* Remove extra spacing */
 }
@@ -11,32 +11,32 @@
   content: "";
   display: block;
   position: absolute;
-  top: -100px !important;
+  top: 0; /* No negative top */
   left: 50%;
   transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
-  background-size: cover;
-  width: 400px; /* adjust width */
-  height: 400px;/* adjust height */
+  background-size: contain; /* Use contain to keep proportions */
+  width: 400px;  /* Adjust width for desktop */
+  height: 400px; /* Adjust height for desktop */
 }
 
+/* Subtitle spacing */
 .page-header .project-tagline {
-  margin-top: 30px; /* Adjust this number as needed */
+  margin-top: 30px; /* Adjust as needed */
 }
 
-/* On small screens, adjust spacing */
+/* On small screens, adjust logo size and spacing */
 @media (max-width: 600px) {
   .page-header .project-name {
-    padding-top: -50px; /* Reduce space above the logo text */
+    padding-top: 200px; /* Make this match height below + extra spacing */
   }
 
   .page-header .project-name::before {
-    width: 150px;  /* Smaller logo width */
-    height: 150px; /* Smaller logo height */
-    padding-top: 80px; /* Reduce space above the logo text */
+    width: 150px;  /* Smaller logo width on mobile */
+    height: 150px; /* Smaller logo height on mobile */
   }
 
   .page-header .project-tagline {
-    padding-top: -30px !important; /* Reduce space above subtitle if needed */
+    margin-top: 10px !important; /* More consistent spacing */
   }
 }
