@@ -1,4 +1,3 @@
-# Welcome to MP Data Solutions
 
 **Freelance Data Engineering Services to Power Your Business**
 
