@@ -1,7 +1,7 @@
 /* Position the title container */
 .page-header .project-name {
   position: relative;
-  padding-top: 140px; /* Must be a bit more than the logo height */
+  padding-top: 160px; /* Make this a bit more than the logo height */
   text-indent: -9999px; /* hides the text */
   line-height: 0;       /* removes extra spacing */
 }
@@ -12,9 +12,8 @@
   display: block;
   position: absolute;
   top: 0;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
+  left: 50%;
+  transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: 100% 100%;
   width: 400px;   /* Adjust as needed */
