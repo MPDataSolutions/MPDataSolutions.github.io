@@ -1,4 +1,8 @@
 .page-header .project-name {
+  display: none;
+}
+
+.page-header .project-name {
   /* Add padding to make room for the logo */
   padding-top: 160px; /* adjust as needed */
   position: relative;
