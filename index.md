@@ -8,7 +8,7 @@ At MP Data Solutions, we specialize in designing and building robust, scalable d
 ## What We Do
 
 - **Cloud Data Engineering**
-  - Azure, AWS, and GCP solutions
+  - Snowflake, Azure, AWS, and GCP solutions
   - Data warehouse design
   - Scalable storage and compute
 
