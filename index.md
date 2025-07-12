@@ -1,5 +1,4 @@
 ---
-layout: default
 title: MP Data Solutions
 ---
 
