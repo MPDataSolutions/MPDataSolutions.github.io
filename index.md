@@ -41,7 +41,7 @@ At MP Data Solutions, we specialize in designing and building robust, scalable d
 ## Let's Connect
 
 Ready to get started or have questions?  
-[Email us](mailto:your.email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username).  
+[Email us](mailto:mpdatasolutionslts@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/michael-perry-30057418a).  
 
 ---
 
