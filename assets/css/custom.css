@@ -11,11 +11,11 @@
   content: "";
   display: block;
   position: absolute;
-  top: 0;
+  top: -30px;
   left: 50%;
   transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
-  background-size: contain;
+  background-size: cover;
   width: 400px;  /* adjust width */
   height: 400px; /* adjust height */
 }
