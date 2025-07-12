@@ -16,10 +16,10 @@
   transform: translateX(-50%);
   background: url('/MPDataSolutions.png') no-repeat center top;
   background-size: cover;
-  width: 400px;  /* adjust width */
-  height: 400px; /* adjust height */
+  width: 400px; !important /* adjust width */
+  height: 400px; !important/* adjust height */
 }
 
 .page-header .project-tagline {
-  margin-top: 30px; /* Adjust this number as needed */
+  margin-top: 30px; !important/* Adjust this number as needed */
 }
